@@ -1,0 +1,1 @@
+Example files from my article on [Unit testing with AutoFixture](https://thatstatsguy.github.io/blog/2023/AutoFixture/)
